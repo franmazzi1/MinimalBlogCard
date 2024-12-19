@@ -8,7 +8,7 @@
 
 .card{
     width: 368px;
-    margin: 50px auto;
+    margin: 100px auto;
     box-shadow: 8px 8px 20px 0px rgba(85, 85, 85, 0.08);
     border-radius: 16px;
     border: 1px solid #FAFAF9;
@@ -34,3 +34,22 @@
     border-radius: 16px;
     margin: 16px;
 }
+
+h1{
+    font-size: 18px;
+    color: #20293A;
+    margin: 16px 0 6px 16px;
+}
+.content{
+    color: #394150;
+    padding: 0 16px 20px 16px;
+    font-size: 14px;
+    border-bottom: 1px solid #E5EAF0;
+}
+
+.author{
+    color: #394150;
+    margin: 20px 16px;
+    font-size: 12px;
+}
+
